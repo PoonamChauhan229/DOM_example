@@ -1,0 +1,23 @@
+addeventlistener
+>getelemntbyid
+>queryselctor
+
+XXXXXXXXXXXX not work XXXXXXXXXXXXXXXXXXX
+
+getElemntsbyclassname
+queryselctorall
+?=>group of elemts cannot operate a similar kind of function
+======
+
+iterate=>loops
+thera are n no of loops
+
+
+innerHTML=>text+tag=>entire element
+
+innerText=>text/Context
+if we pass tag inside it , it will consider as text
+
+
+getElementsByClassName and getElementsByTagName cant be used at a same time 
+to the same element
